@@ -33,3 +33,20 @@ bash install.sh
 # Or manual install
 pip install -r requirements.txt
 python controller/main.py
+
+
+# Clone from GitHub
+git clone https://github.com/zaax/RATCAT.git
+cd RATCAT
+
+# Install dependencies
+bash install.sh
+
+# Or manual
+pip install -r requirements.txt
+
+# Start controller
+python controller/main.py
+
+# On Android (client)
+python client/ratcat_client.py
