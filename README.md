@@ -50,3 +50,10 @@ python controller/main.py
 
 # On Android (client)
 python client/ratcat_client.py
+
+# NB DARI ZAX
+| NB DARI ZAX.           |
+|------------------------|
+| * Dilarang jual belikan|
+| * Kesalahan tanggung   |
+|   sendiri.             |
